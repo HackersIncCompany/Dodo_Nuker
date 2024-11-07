@@ -1,9 +1,9 @@
 {
     "BOT": {
-        "Token": "Your_TOKEN_HERE",
+        "Token": "Your_BOT_TOKEN",
         "Custom_Status": "skividi slicer"
     },
     "SERVER": {
-        "ServerID": "SERVER_ID_HERE"
+        "ServerID": "YOUR_SERVER_ID_WANT_TO_NUKE"
     }
 }
